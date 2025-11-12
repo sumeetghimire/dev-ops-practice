@@ -1,1 +1,1 @@
-<?php echo "Hello from AWS Elastic Beanstalk 🚀"; ?>
+<?php echo "Hello from AWS Elastic Beanstalk  change first update"; ?>
