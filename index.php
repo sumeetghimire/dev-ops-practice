@@ -1,1 +1,1 @@
-<?php echo "Hello from AWS Elastic Beanstalk  change first update"; ?>
+<?php echo "Hello from AWS Elastic Beanstalk  testing manual approval"; ?>
